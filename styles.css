@@ -21,10 +21,9 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-
 .container {
   width: 500px;
-  height: 50vh;
+  height: 55vh;
   max-width: 100%;
   background-color: white;
   border-radius: 5px;
@@ -47,16 +46,16 @@ body {
 }
 
 .dash {
-  background-color: #D4E6F3;
+  background-color: #d4e6f3;
   height: 5px;
   width: 40px;
   align-self: flex-end;
-    top: -21px;
-    position: relative;
+  top: -21px;
+  position: relative;
 }
 
 .big-title {
-  color: #3F8BCD;
+  color: #3f8bcd;
   text-transform: uppercase;
   font-weight: 900;
   font-size: 3rem;
@@ -65,11 +64,10 @@ body {
 
 .small-title {
   text-transform: uppercase;
-  color: #AAAAAB;
+  color: #aaaaab;
   position: absolute;
   top: 62px;
 }
-
 
 .second-row {
   display: flex;
@@ -82,7 +80,7 @@ body {
 
 .small-title-content {
   text-transform: uppercase;
-  color: #AAAAAB;
+  color: #aaaaab;
 }
 
 .big-title-content {
@@ -99,4 +97,3 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
-
